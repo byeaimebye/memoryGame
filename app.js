@@ -4,18 +4,18 @@ let selecciones = []
 
 function cargarIconos(){
     iconos=[
-        '<i class="fas fa-star"></i>',
-        '<i class="far fa-star"></i>',
-        '<i class="fas fa-star-of-life"></i>',
-        '<i class="fas fa-star-and-crescent"></i>',
-        '<i class="fab fa-old-republic"></i>',
-        '<i class="fab fa-galactic-republic"></i>',
-        '<i class="fas fa-sun"></i>',
-        '<i class="fas fa-stroopwafel"></i>',
-        '<i class="fas fa-dice"></i>',
-        '<i class="fas fa-chess-knight"></i>',
-        '<i class="fas fa-chess"></i>',
-        '<i class="fas fa-dice-d20"></i>'
+        '<i class="fas fa-heart"></i>',
+        '<i class="fas fa-dove"></i>',
+        '<i class="fas fa-fan"></i>',
+        '<i class="far fa-kiss-wink-heart"></i>',
+        '<i class="fab fa-angellist"></i>',
+        '<i class="fas fa-anchor"></i>',
+        '<i class="fas fa-bolt"></i>',
+        '<i class="fab fa-linux"></i>',
+        '<i class="fas fa-dog"></i>',
+        '<i class="fas fa-ghost"></i>',
+        '<i class="fas fa-gamepad"></i>',
+        '<i class="fab fa-grav"></i>'
     ]
 
 }

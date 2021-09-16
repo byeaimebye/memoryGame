@@ -12,6 +12,9 @@ body{
     margin:0;
     -webkit-perspective: 10000;
     background-color: blueviolet;
+    background-image: url(/68747470733a2f2f692e6962622e636f2f714e76523339772f322e6a7067.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -48,12 +51,12 @@ div{
     align-items: center;
 }
 .trasera{
-    background-color:lightcyan;
+    background-color: pink;
     transform: rotateY(180deg)
 }
 
 .superior{
- background: linear-gradient(orange, darkorange)
+ background: linear-gradient(red, blueviolet)
 }
 .nuevoJuego{
     background: linear-gradient(orange, darkorange);
